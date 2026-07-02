@@ -1,8 +1,6 @@
 pandas
 numpy
 xgboost
-sklearn.metrics
-pickle
-data_pipeline
+sklearn-learn
 streamlit
-plotly.express
+plotly
