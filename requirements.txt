@@ -1,0 +1,8 @@
+pandas
+numpy
+xgboost
+sklearn.metrics
+pickle
+data_pipeline
+streamlit
+plotly.express
